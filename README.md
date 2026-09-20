@@ -5,7 +5,7 @@ Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 dataset, containerized with Docker. Built for the HEC "Tooling for Data
 Science" course.
 
-This project reuses the dataset from an earlier project,
+This project reuses the dataset from an earlier group project,
 [aezacero/Forest-Cover-Type](https://github.com/aezacero/Forest-Cover-Type),
 simplified down to a single data-exploration app (no model
 training/prediction) to keep the project easy to build, test, and reproduce
